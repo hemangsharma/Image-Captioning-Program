@@ -24,6 +24,12 @@ CrowdFlowerAnnotations.txt contains the CrowdFlower judgments.  The first two co
 
 # Refrence
 
-M. Hodosh, P. Young and J. Hockenmaier (2013) "Framing Image Description as a Ranking Task: Data, Models and Evaluation Metrics", Journal of Artifical Intellegence Research, Volume 47, pages 853-899
-http://www.jair.org/papers/paper3994.html
+<li>M. Hodosh, P. Young and J. Hockenmaier (2013) "Framing Image Description as a Ranking Task: Data, Models and Evaluation Metrics", Journal of Artifical Intellegence Research, Volume 47, pages 853-899
+http://www.jair.org/papers/paper3994.html</li>
+
+<li>https://daniel.lasiman.com/post/image-captioning/</li>
+<li>https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning</li>
+<li>https://towardsdatascience.com/image-captioning-with-keras-teaching-computers-to-describe-pictures-c88a46a311b8</li>
+<li>https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/</li>
+<li>https://towardsdatascience.com/how-to-build-an-image-captioning-model-in-pytorch-29b9d8fe2f8c</li>
 
