@@ -1,16 +1,11 @@
 # Image-Captioning-Program
 This project builds an image captioning model that will analyse input images and generate a short description.
 
+# Team Members 
 
-# Other Info
+<li><a href="https://sharmahemang.com">Hemang Sharma</a></li>
 
-If you use this corpus / data:
-
-Please cite: M. Hodosh, P. Young and J. Hockenmaier (2013) "Framing Image Description as a Ranking Task: Data, Models and Evaluation Metrics", Journal of Artifical Intellegence Research, Volume 47, pages 853-899
-http://www.jair.org/papers/paper3994.html
-
-
-Captions, Dataset Splits, and Human Annotations :
+# File and Dataset Description
 
 
 Flickr8k.token.txt - the raw captions of the Flickr8k Dataset . The first column is the ID of the caption which is "image address # caption number"
@@ -26,3 +21,9 @@ ExpertAnnotations.txt is the expert judgments.  The first two columns are the im
 
 
 CrowdFlowerAnnotations.txt contains the CrowdFlower judgments.  The first two columns are the image and caption IDs.  The third column is the percent of Yeses, the fourth column is the total number of Yeses, the fifth column is the total number of Noes.  A Yes means that the caption describes the image (possibly with minor mistakes), while a No means that the caption does not describe the image.  Each image-caption pair has a minimum of three judgments, but some may have more.
+
+# Refrence
+
+M. Hodosh, P. Young and J. Hockenmaier (2013) "Framing Image Description as a Ranking Task: Data, Models and Evaluation Metrics", Journal of Artifical Intellegence Research, Volume 47, pages 853-899
+http://www.jair.org/papers/paper3994.html
+
