@@ -3,7 +3,7 @@ This project builds an image captioning model that will analyse input images and
 
 # Team Members 
 
-<li><a href="https://sharmahemang.com">Hemang Sharma</a></li>
+<li><a href="mailto:Hemang.Sharma@student.uts.edu.au ">Hemang Sharma</a></li>
 
 # File and Dataset Description
 
